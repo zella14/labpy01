@@ -3,10 +3,14 @@ Dibawah ini pembuatan program latihan1.py,latihan2.py, dan program1.py.
 
 ## PEMBUATAN PROGRAM Latihan1.py  ## 
 Buka aplikasi sublime,karena disini saya akan membuat program dengan menggunakan applikasi sublime.
+
 ![alt text](1.png)
+
 ## PERTAMA ##
 Jika sudah, save dengan (ctrl+s) beri nama dengan akhiran ".py" (sebuah program python) lalu save. Seperti dibawah ini :
+
 ![alt text](2.png)
+
 ## KEDUA ##
 Ketik seperti dibawah ini, dan perhatikan setiap penempatan titik dan koma pada sebuah program yang dijalankan.
 
@@ -22,6 +26,7 @@ Random	: Untuk menentukan suatu pilihan.
 Range	: Sebuah fungsi yang menghasilkan list. Dimana fungsi ini membuat list baru dengan rentang nilai tertentu.
 
 Uniform	: Untuk menampilkan bilangan random dengan batas awal "x"  dan batas akhir "y".
+
 ## KETIGA ##
 Jika cara kedua sudah dijalankan, jangan lupa save (ctrl+s) dan jalankan program menggunakan "cmd/command prompt". Maka akan tampil eksekusi seperti dibawah ini :
 
@@ -65,13 +70,19 @@ Jika cara kedua sudah dijalankan, jangan lupa save (ctrl+s) dan jalankan program
 
 ## PEMBUATAN PROGRAM Program1.py ##
 Buka aplikasi sublime,karena disini saya akan membuat program dengan menggunakan applikasi sublime.
+
 ![alt text](1.png)
-** PERTAMA ##
-Jika sudah, save dengan (ctrl+s) beri nama dengan akhiran ## .py ## (sebuah program python) lalu save. Seperti dibawah ini :
+
+## PERTAMA ##
+Jika sudah, save dengan (ctrl+s) beri nama dengan akhiran ".py" (sebuah program python) lalu save. Seperti dibawah ini :
+
 ![alt text](8.png)
+
 ## KEDUA ##
 Ketik seperti dibawah ini, dan perhatikan setiap penempatan titik dan koma pada sebuah program yang dijalankan.
+
 ![alt text](9.png)
+
 ## Penjelasan : ##
 Print
 		: Berfungsi untuk menampilkan objek ke perangkat output.
@@ -84,8 +95,8 @@ Range		: Mengembalikan deret integer berurut pada range yang ditentukan dari sta
 \nTotal		: Membuat garis baru, dan menampilkan total hasil dari apa yang kita inginkan.
 
 ## KETIGA ##
-Jika cara kedua sudah dijalankan, jangan lupa save (ctrl+s) dan jalankan program menggunakan ## cmd/command prompt. ## Maka akan tampil eksekusi seperti dibawah ini :
+Jika cara kedua sudah dijalankan, jangan lupa save (ctrl+s) dan jalankan program menggunakan "cmd/command prompt". Maka akan tampil eksekusi seperti dibawah ini :
 
 ![alt text](10.png)
 
-Demikian yang hanya bisa saya sampaikan. Bila ada kekurangan saya mohon maaf. Sekian dan Terima kasih, Shella Ayu Lestari TI.18.A1
+Demikian yang hanya bisa saya sampaikan. Bila ada kekurangan saya mohon maaf. Sekian dan Terima kasih. "Shella Ayu Lestari TI.18.A1".
