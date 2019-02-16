@@ -49,6 +49,7 @@ Ketik seperti dibawah ini, dan perhatikan setiap penempatan titik dan koma pada 
 
 ## Penjelasan : ##
 Menggunakan "max=0" dan type datanya itu "while True" karena jika suatu kodingan menggunakan while, kodingan itu tidak akan berhenti tanpa menginput bilangan "0". Maka jika kita menginput bilangan "0" , maka eksekusi selesai.
+
 Max	: Untuk mencari nilai tertinggi, fungsi ini dapat diberikan pada parameter berupa angka.
 
 While	: Untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
@@ -84,8 +85,8 @@ Ketik seperti dibawah ini, dan perhatikan setiap penempatan titik dan koma pada 
 ![alt text](9.png)
 
 ## Penjelasan : ##
-Print
-		: Berfungsi untuk menampilkan objek ke perangkat output.
+Print		: Berfungsi untuk menampilkan objek ke perangkat output.
+
 If		: Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. 
 
 For		: Perulangan yang terhitung.
